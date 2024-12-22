@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving a typo in the `getElementById` function.  The incorrect function name `getElementByIdx` causes a runtime error, preventing the intended DOM manipulation. The solution shows the correct usage.
